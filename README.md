@@ -9,7 +9,7 @@ Course: QSS 45
 To what extent do institutional factors predict early childhood teacher compensation beyond individual qualifications? 
 
 ## Directory Layout
-'''text
+```text
 wage_project/
 ├── code/ 
 │ ├── 00_pull.ipynb 
@@ -29,7 +29,7 @@ wage_project/
 │ └── SHAP visualizations 
 │ 
 └── README.md
-'''
+```
 ---
 
 ##  Notebook Workflow
